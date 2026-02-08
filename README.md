@@ -107,3 +107,12 @@ Other models showed issues such as:
 ## **💼 Business Recommendations**
 - Deploy Model‑3 to enforce helmet compliance with perfect accuracy  
 - Reduce manual supervision and improve operational
+
+![With Helmet](assets/with_helmet.jpg)
+![Without Helmet](assets/without_helmet.jpg)
+![Model Training/Validation Accuracy](assets/training_validation_accuracy.jpg)
+![Model Loss Curve](assets/loss_curve.jpg)
+![Confusion matrix](assets/confusion_matrix.jpg)
+![Model Comparison](assets/model_comparison.jpg)
+![Final Model Test Performance](assets/model_test_perf.jpg)
+![Final Model Confusion Matrix](assets/final_model_confusion_matrix.jpg)
