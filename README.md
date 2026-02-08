@@ -1,9 +1,3 @@
-Perfect — **Automated Safety Helmet Detection Using Deep Learning** is a strong, professional title. It signals real‑world impact, technical depth, and clarity. Now that we have the title, I can give you the polished, employer‑ready README you’ll paste directly into your GitHub repository.
-
-Here it is, crafted to feel like a clean case study that hiring managers love.
-
----
-
 # **Automated Safety Helmet Detection Using Deep Learning**
 
 ## **📌 Overview**
