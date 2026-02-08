@@ -108,6 +108,9 @@ Other models showed issues such as:
 - Deploy Model‑3 to enforce helmet compliance with perfect accuracy  
 - Reduce manual supervision and improve operational
 
+---
+
+## 📊 Key Visuals
 ![With Helmet](assets/with_helmet.jpg)
 ![Without Helmet](assets/without_helmet.jpg)
 ![Model Training/Validation Accuracy](assets/training_validation_accuracy.jpg)
