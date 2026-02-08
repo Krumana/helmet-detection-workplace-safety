@@ -78,8 +78,6 @@ Other models showed issues such as:
 ---
 
 ## **📊 Key Visuals**
-(Place these in your `assets/` folder and embed them)
-
 - Sample images (helmet / no helmet)  
 - Training & validation accuracy curves  
 - Confusion matrix  
